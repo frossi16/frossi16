@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🛠 Tecnologias y herramientas
+JavaScript	HTML5	CSS3
+NodeJS	React	Redux
+Express.js	Postgres	Sequelize
+JWT	MongoDB	SQLite
