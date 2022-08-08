@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 JavaScript	HTML5	CSS3
 NodeJS	React	Redux
 Express.js	Postgres	Sequelize
-JWT	MongoDB	SQLite
+JWT	MongoDB	Socket.io
